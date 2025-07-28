@@ -1,1 +1,2 @@
-# Alura_G9
+Para ejecutar el sistema, debes poner: 
+'''npm install react''''
